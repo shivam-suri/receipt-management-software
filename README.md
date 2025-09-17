@@ -1,2 +1,2 @@
-# squirll
-GitHub Repository for Squirll Project
+# Receipt Management
+GitHub Repository for Receipt Management Project
